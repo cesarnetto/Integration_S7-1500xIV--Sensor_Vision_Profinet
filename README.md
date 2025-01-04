@@ -11,4 +11,4 @@ A integração entre o PLC Siemens S7-1500 e o Sensor de Visão IV3 da Keyence �
 	- Software TIA Portal para programação e configuração do PLC V15.1;
 	- IV3-Navigator Software para configuração do sensor.
 
-![CAPA](https://github.com/user-attachments/assets/dba677c9-5c75-4913-955e-503faf63eb60)
+![WhatsApp Image 2025-01-04 at 17 24 45](https://github.com/user-attachments/assets/691cbc2a-55b3-493b-8ee7-385f9977efd0)
